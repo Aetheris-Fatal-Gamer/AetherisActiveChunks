@@ -1,0 +1,5 @@
+name: AetherisActiveChunks
+version: '${project.version}'
+main: br.com.aetherismc.activechunks.Core
+commands:
+  chunks:
